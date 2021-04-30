@@ -28,12 +28,12 @@
 				<input type="text" name="email" id="email" required>
 			</p>
 			<p>
-				<label for="alamat">alamat email</label><br>
+				<label for="alamat">Alamat</label><br>
 				<textarea name="alamat" id="alamat" cols="30" rows="10" required></textarea>
 			</p>
 			<p>
 				<button type="reset">Ulangi</button>
-				<button type= submit" name="simpan">Simpan</button>
+				<button type= "submit" name="simpan">Simpan</button>
 			</p>
 		</form>
 		<?php
